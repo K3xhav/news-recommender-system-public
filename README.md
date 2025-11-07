@@ -73,7 +73,7 @@ pip install -r requirements.txt
 
 ## 🎥 Live working video 
 
-[![News Recommender System Working](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/RF0dEMQ3uIg)
+[![News Recommender System Working](https://pngfre.com/youtube-logo-png/)](https://youtu.be/RF0dEMQ3uIg)
 
 
 
