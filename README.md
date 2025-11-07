@@ -41,7 +41,6 @@ pip install -r requirements.txt
 
 ### 🔄 Data Pipeline
 - **Automated ELT** with daily article ingestion
-- **Medallion architecture** (Bronze → Silver → Gold)
 - **Data quality testing** with dbt
 
 ## 🛠️ Tech Stack
@@ -55,7 +54,7 @@ pip install -r requirements.txt
 ## 📈 Performance
 
 - **Model Accuracy**: 97% precision@5
-- **Data Freshness**: Articles processed within 1 hour
+- **Data Freshness**: new articles process everyday
 - **API Latency**: < 200ms for recommendations
 
 ## 🎓 Learning Outcomes
