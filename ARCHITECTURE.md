@@ -92,9 +92,4 @@ fact_user_clicks (Fact)
 | **Precision@5** | 0.76 | Top-5 recommendation quality |
 | **Training Time** | 45s | 400 users, 747 articles |
 | **Inference Time** | <200ms | Real-time serving |
-```
 
-
-```
-
-**Copy-paste each block into their respective files, then run the terminal commands!** ✅
